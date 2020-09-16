@@ -1,5 +1,7 @@
 File 2 created for CR1 to work on payment gateway feature.
 
-Change to test push
+Change -> to test push
 
-Change to test pull by teammate
+Change -> to test pull by teammate
+
+Change -> to test rebase with conflict local master and remote master, by teammate for WI7
